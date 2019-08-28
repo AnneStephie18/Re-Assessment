@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ToolsQADemoSiteApplication" >
+ 
+ <suite-files>
+ <suite-file path="./resources/suite/homepage.xml"></suite-file>
+ <suite-file path="./resources/suite/productspagefiltercolor.xml"></suite-file>
+ <suite-file path="./resources/suite/productspagefiltercolorandprice.xml"></suite-file>
+ </suite-files>
+ 
+</suite> 
